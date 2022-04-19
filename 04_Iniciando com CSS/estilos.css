@@ -1,0 +1,12 @@
+#meuParagrafo {
+    color: blue;
+    background-color: yellow;
+}
+
+.titulo {
+    background-color: red;
+}
+
+p.titulo {
+    background-color: blue;
+}
